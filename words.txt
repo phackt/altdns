@@ -70,6 +70,8 @@ confluence
 container
 control
 data
+dbg
+debug
 dec
 demo
 dev
@@ -158,6 +160,11 @@ pc
 php
 pl
 poland
+ppr
+pprd
+pprod
+preprod
+prd
 preferences
 priv
 private
@@ -168,6 +175,9 @@ profiles
 promo
 promotion
 proxy
+qualif
+recette
+rct
 redirector
 region
 repo
@@ -185,6 +195,7 @@ security
 sept
 server
 service
+setup
 singed
 skins
 spring
@@ -194,6 +205,7 @@ stage
 stage1
 staging
 static
+stg
 support
 swagger
 system
