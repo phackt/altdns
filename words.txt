@@ -78,6 +78,7 @@ dev
 dev1
 developer
 devops
+dm
 docker
 docs
 drop
@@ -175,6 +176,8 @@ profiles
 promo
 promotion
 proxy
+pt
+qa
 qualif
 recette
 rct
