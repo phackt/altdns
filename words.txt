@@ -28,6 +28,7 @@
 9
 a
 acc
+accept
 accounts
 admin
 admin1
@@ -100,6 +101,7 @@ euwe
 evelynn
 events
 feb
+fet
 firewall
 forms
 forum
@@ -215,6 +217,8 @@ support
 swagger
 system
 t
+train
+training
 team
 test
 test1
